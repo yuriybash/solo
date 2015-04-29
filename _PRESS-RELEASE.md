@@ -19,26 +19,43 @@ Once the project moves into development, the press release can be used as a touc
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
 
+  Rocketships
+
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+
+  People looking for jobs at fast-growing startups can use Rocketships to see which startups are growing the fastest, based on increases in funding round sizes.
 
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
 
+  Rocketships provides a visual representation of the 
+
 ## Problem ##
   > Describe the problem your product solves.
+
+  Joining a startup as an employee can be risky, and Rocketships helps you discern the ones that are growing
+  quickly from those who do not.
 
 ## Solution ##
   > Describe how your product elegantly solves the problem.
 
+  Visualizing funding events on a graph is a simple, convenient way to quickly tell the rate at which a company or companies are growing.
+
 ## Quote from You ##
   > A quote from a spokesperson in your company.
+
+  Try it out and see if you like it!
 
 ## How to Get Started ##
   > Describe how easy it is to get started.
 
+  Simply visit the page.
+
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+
+  Rocketships helped me find a fast-growing, profitable startup to work at.
 
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
